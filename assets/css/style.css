@@ -45,5 +45,21 @@ body {
     height: 400px;
 }
 
+#logo {
+    justify-self: center !important;
+    width: 70px;
+}
+
+#logo-container {
+    justify-content: center !important;
+    display: inline-block !important;
+    position: sticky !important;
+    padding-left: 600px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    
+}
+
+
 
 
