@@ -60,6 +60,10 @@ body {
     
 }
 
+.core .core-item:hover {
+    background-color: bisque !important;
+    cursor: pointer;
+}
 
 
 
